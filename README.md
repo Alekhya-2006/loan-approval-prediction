@@ -160,7 +160,7 @@ Overall, Logistic Regression performed strongly on this dataset, while Gaussian 
 ---
 
 ##  Project Structure
-
+```text
 loan-approval-prediction/
 │
 ├── data/
